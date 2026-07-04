@@ -7,10 +7,9 @@
 *Developer · Chess Player · Writer*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-harris9/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-harris9/)
-[![Portfolio](https://img.shields.io/badge/Personal%20Site-000000?style=for-the-badge&logo=astro&logoColor=white)](https://christopherharris.netlify.app)
-[![Movie Mining](https://img.shields.io/badge/Movie%20Mining-B85C38?style=for-the-badge&logo=letterboxd&logoColor=white)](https://movie-mining.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=astro&logoColor=white)](https://christopherharris.netlify.app)
 [![Pawn to Paper](https://img.shields.io/badge/Pawn%20to%20Paper-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://christopherharris025.substack.com)
+[![Movie Mining](https://img.shields.io/badge/Movie%20Mining-B85C38?style=for-the-badge&logo=letterboxd&logoColor=white)](https://movie-mining.com)
 
 </div>
 
@@ -73,13 +72,13 @@ An ongoing personal R/ggplot2 project tracking clock usage across over-the-board
 
 - 🎓 Studying Computer Science at Kennesaw State University
 - 💼 Software development internship — Python Dash app for system performance visualization
-- ♟ Active over-the-board chess player (USCF ~1977, [Top 100 Player in Georgia](https://georgiachess.org/champions/top-players))
+- ♟ Active over-the-board chess player (USCF ~1972, [Top 100 Player in Georgia](https://georgiachess.org/champions/top-players))
 - ✍️ Writing film reviews at [Movie Mining](https://movie-mining.com)
 
 ---
 
 <div align="center">
 
-*Always open to connecting — reach out on [LinkedIn](https://www.linkedin.com/in/christopher-harris-linkedin) or visit [my site](https://christopherharris.netlify.app).*
+*Always open to connecting — reach out on [LinkedIn](https://www.linkedin.com/in/christopher-harris9/) or visit [my site](https://christopherharris.netlify.app).*
 
 </div>
