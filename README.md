@@ -71,8 +71,7 @@ An ongoing personal R/ggplot2 project tracking clock usage across over-the-board
 ## Currently
 
 - 🎓 Studying Computer Science at Kennesaw State University
-- 💼 Software development internship — Python Dash app for system performance visualization
-- ♟ Active over-the-board chess player (USCF ~1972, [Top 100 Player in Georgia](https://georgiachess.org/champions/top-players))
+- ♟ Active over-the-board chess player (USCF ~1970, [Top 100 Player in Georgia](https://georgiachess.org/champions/top-players))
 - ✍️ Writing film reviews at [Movie Mining](https://movie-mining.com)
 
 ---
