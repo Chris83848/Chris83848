@@ -65,7 +65,7 @@ An ongoing personal R/ggplot2 project tracking clock usage across over-the-board
 
 | Project | Description |
 |---|---|
-| [Movie Mining](https://movie-mining.com) | Personal film review publication built with Astro 5 featuring a cinematic design, structured content pipeline, and continuous deployment. Source available on request — reach out via [LinkedIn](https://www.linkedin.com/in/christopher-harris-linkedin) to request repo access. |
+| [Movie Mining](https://movie-mining.com) | Personal film review publication built with Astro 5 featuring a cinematic design, structured content pipeline, and continuous deployment. Repository available on request — reach out via [LinkedIn](https://www.linkedin.com/in/christopher-harris-linkedin) to request access. |
 | [Pawn to Paper](https://christopherharris025.substack.com) | Monthly chess newsletter covering game analysis, puzzles, book reviews, and the chess world. |
 
 ## Currently
