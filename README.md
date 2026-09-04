@@ -19,8 +19,6 @@
 
 I'm a Computer Science student at Kennesaw State University with a focus on software engineering and data science. My technical work spans Java desktop applications, Python data pipelines, R data visualization, and front-end development with Astro. Outside of code, I actively compete in chess tournaments and publish a monthly chess newsletter at [Pawn to Paper](https://christopherharris025.substack.com) as well as film reviews at [Movie Mining](https://movie-mining.com).
 
-Currently completing a software development internship at Landis+Gyr, building a Python Dash web application for system performance data visualization.
-
 ## Tech Stack
 
 **Languages**
@@ -71,7 +69,7 @@ An ongoing personal R/ggplot2 project tracking clock usage across over-the-board
 ## Currently
 
 - 🎓 Studying Computer Science at Kennesaw State University
-- ♟ Active over-the-board chess player (USCF ~1970, [Top 100 Player in Georgia](https://georgiachess.org/champions/top-players))
+- ♟ Active over-the-board chess player (USCF ~1963, [Top 100 Player in Georgia](https://georgiachess.org/champions/top-players))
 - ✍️ Writing film reviews at [Movie Mining](https://movie-mining.com)
 
 ---
